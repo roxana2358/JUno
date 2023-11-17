@@ -1,4 +1,4 @@
-Corso di studio in Informatica
+Corso di studi in Informatica
 
 Metodologie di Programmazione
 
